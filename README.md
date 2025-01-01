@@ -1,2 +1,11 @@
-# GAP-1
-Установка и настройка Prometheus
+На виртуальной машине Linux Ubuntu выполнены установки и настройки:
+- NGINX
+- MySQL
+- CMS WordPress
+- PHP-FPM
+- Prometheus
+- node exporter
+- nginx exporter
+- PHP-FPM exporter
+- MySQL exporter
+- blackbox exporte
